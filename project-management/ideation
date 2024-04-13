@@ -1,1 +1,16 @@
+RULES: Mexico has a rich cultural heritage and booming sectors. Create a digital platform that promotes accessible tourism in Mexico to ensure inclusive travel experiences.
+
+
+Idea: AI travel agencies for disabled people. 
+Fine-tuning of an LLLM to give best advice of places to visit for disable people.
+We focus on CDMX.
+
+STEPS: 
+1- Research and gather data on accessible locations and services in CDMX for disabled people.
+2- Fine-tune an existing LLLM on this data to create a model that can provide personalized recommendations based on the user's specific needs and preferences.
+3- Develop a user interface for the AI travel agency that is accessible and easy to use for disabled people.
+4- Integrate the fine-tuned LLLM into the user interface to provide recommendations for accessible places to visit.
+5- Test the MVP with a small group of disabled users to gather feedback and make improvements.
+6- Create a pitch that highlights the problem you are solving, the unique features of your AI travel agency, and the impact it will have on promoting accessible tourism in Mexico.
+
 
